@@ -1,0 +1,3 @@
+claude mcp add --scope user o1-base-launcher -- node /absolute/path/to/o1-base-launcher/dist/index.js
+claude mcp add --scope user --transport http base-docs https://docs.base.org/mcp
+claude mcp list
