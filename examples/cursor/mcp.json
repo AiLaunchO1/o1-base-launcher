@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "o1-base-launcher": {
+      "command": "node",
+      "args": ["/absolute/path/to/o1-base-launcher/dist/index.js"]
+    },
+    "base-docs": {
+      "url": "https://docs.base.org/mcp"
+    }
+  }
+}
